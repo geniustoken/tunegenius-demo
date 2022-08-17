@@ -1,0 +1,397 @@
+<HomepageV1
+  outerspaces="TuneGenius"
+  place1="Home"
+  chevronDown1="chevron-down-1.png"
+  newItems="New Items"
+  chevronDown2="chevron-down-1.png"
+  featuredArtist="Featured Artist"
+  chevronDown3="chevron-down-1.png"
+  aboutUs1="About Us"
+  chevronDown4="chevron-down-1.png"
+  contactUs="Contact Us"
+  chevronDown5="chevron-down-1.png"
+  image1="background.png"
+  spanText1={
+    <React.Fragment>
+      Discover the true
+      <br />
+      Value of
+      <br />
+    </React.Fragment>
+  }
+  spanText2="Music."
+  findTheMostAttrac="Join 1000s of artists on a journey to make a full-time income from music creation."
+  topArtist="Top Songs"
+  theHandsThatCreat="Our Highest Earning Songs"
+  liveAuctions="Beat Auctions"
+  competeWithOthers="The best way to buy & sell exclusive beats"
+  image2="mask-1x-png-1x-png.png"
+  timer1="vector-28.png"
+  text1="02 : 15 : 10"
+  abstractNature="Abstract Nature"
+  x51Eth1="5.1 ETH"
+  image3="mask-1-1x-png.png"
+  timer2="vector-28.png"
+  text2="05 : 28 : 15"
+  extraterrestrial="Extraterrestrial"
+  x45Eth="4.5 ETH"
+  image4="mask-2-1x-png.png"
+  timer3="vector-28.png"
+  text3="02 : 16 : 27"
+  cuteAnimal="Cute Animal"
+  x29Eth="2.9 ETH"
+  image5="mask-3-1x-png.png"
+  timer4="vector-28.png"
+  text4="2 : 16 : 27"
+  metaverser="Metaverser"
+  x51Eth2="5.1 ETH"
+  howItWork="How It Works"
+  x01="rectangle-3.png"
+  vector1="vector-44.png"
+  vector2="vector-45.png"
+  vector3="vector-46.png"
+  vector4="vector-47.png"
+  vector5="vector-48.png"
+  vector6="vector-49.png"
+  vector7="vector-50.png"
+  vector8="vector-51.png"
+  vector9="vector-50.png"
+  vector10="vector-51.png"
+  vector11="vector-50.png"
+  vector12="vector-51.png"
+  vector13="vector-50.png"
+  vector14="vector-51.png"
+  vector15="vector-50.png"
+  vector16="vector-51.png"
+  vector17="vector-50.png"
+  vector18="vector-51.png"
+  x02="rectangle-3-1.png"
+  vectorContainer1="vector-62.png"
+  vector19="vector-63.png"
+  vector20="vector-64.png"
+  vector21="vector-65.png"
+  vector22="vector-66.png"
+  vector23="vector-67.png"
+  vector24="vector-68.png"
+  background="rectangle-3-2.png"
+  vector25="vector-50.png"
+  vector26="vector-51.png"
+  vector27="vector-50.png"
+  vector28="vector-51.png"
+  vector29="vector-50.png"
+  vector30="vector-51.png"
+  vector31="vector-50.png"
+  vector32="vector-51.png"
+  vector33="vector-81.png"
+  vector34="vector-82.png"
+  vector35="vector-83.png"
+  vector36="vector-84.png"
+  vector37="vector-85.png"
+  vector38="vector-86.png"
+  vectorContainer2="vector-87.png"
+  vector39="vector-88.png"
+  vector40="vector-89.png"
+  vector41="vector-88.png"
+  vector42="vector-50.png"
+  vector43="vector-51.png"
+  vector44="vector-50.png"
+  vector45="vector-51.png"
+  buySellYourCollectionNftS="Pay Per Stream"
+  youCanBuyTheNfts="Instead of $10.99/Month you pay $0.025/stream. So you pay artists 6x more then Spotify… and you save money."
+  exploreByCategory="Genres"
+  findYourFavoriteCategoryHere="Find your favorite category here"
+  art1="vector-13-1x-png.png"
+  art2="Hip-Hop"
+  musicSign="vector-14.png"
+  music="Country"
+  game="vector-15-1x-png.png"
+  gameItems="Old School"
+  vector46="vector-16.png"
+  vector47="vector-17.png"
+  tradingCards="Pop"
+  toy="vector-18-1x-png.png"
+  collectibles="EDM"
+  dashboard="vector-19-1x-png.png"
+  miscellaneous="Indie"
+  popularCollections="Popular Artists"
+  hereThePopularCollections="Here the popular collections"
+  maskGroup1="placeholder.png"
+  placeholder1="placeholder-2.png"
+  createdBySeraCobalt="Music Producer/Dad Rapper"
+  cuteThings="Justin Rogers"
+  maskGroup2="placeholder-3.png"
+  placeholder2="placeholder-5.png"
+  abstractAttractive="Koltan Potts"
+  spanText3="Country Artist"
+  spanText4=""
+  spanText5=""
+  maskGroup3="placeholder-6.png"
+  unsplash_CvwxhgqgO="unsplash-cvwxhgqg-o.png"
+  metaverse="Wildman"
+  createdBySamanthaW="Folk Artist/Dad"
+  whyYouHaveToChooseUs="Why TuneGenius?"
+  reasonableReasonsT="Well... There is a couple reasons"
+  faqs="FAQs"
+  whatPeopleUsuallyAsk="What people usually ask"
+  howToBuyNfts="How to buy NFTs?"
+  loremIpsumDolorSi1="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  howToCreateNfts="How to create NFTs?"
+  investorsPartners="Investors & Partners"
+  club_Ticket_1="club-ticket-1.png"
+  clubRogers="Club Rogers"
+  signupForOurNewsl="Signup for our newsletter to get the latest information in your inbox"
+  noSpamMessageYou="No spam message, your email is safe with us"
+  typeYourEmailHere="Type your email here"
+  subscribe="Subscribe"
+  image6="rectangle-7.png"
+  loremIpsumDolorSi2="TuneGenius Studios, Inc."
+  aboutUs2="About Us"
+  about="About"
+  place2="Contact"
+  links="Links"
+  communityLinks="Community Links"
+  socialMedia="Social Media"
+  iconInstagram="instagram.png"
+  iconTwitter="twitter.png"
+  facebook="vector-3.png"
+  telegram="vector-4.png"
+  line="line-1x-png.png"
+  copyright2021Tro="Copyright © 2021 TuneGenius. All Right Reseved"
+  untitled1="untitled-1.png"
+  button1Props={{
+    vector1:
+      "vector-33.png",
+    vector2:
+      "vector-101.png",
+    explore: "Listen",
+  }}
+  button2Props={{
+    vector1:
+      "vector-33.png",
+    vector2:
+      "vector-101.png",
+    explore: "Invest",
+    className: "button-1",
+  }}
+  group2841Props={{
+    exploreMore: "Listen Now",
+    line3:
+      "line-3-1.png",
+  }}
+  x011Props={{
+    placeholder:
+      "placeholder-8.png",
+    seraCobalt: "Lick My Balls",
+    x2508Eth: "Justin Rogers",
+  }}
+  x012Props={{
+    placeholder:
+      "placeholder-9.png",
+    seraCobalt: "One Too Many...",
+    x2508Eth: "Justin Rogers",
+    className: "content-1-item-1",
+  }}
+  x013Props={{
+    placeholder:
+      "placeholder-10.png",
+    seraCobalt: "Phat Thang$",
+    x2508Eth: "Justin Rogers",
+    className: "content-1-item-2",
+  }}
+  x014Props={{
+    placeholder:
+      "placeholder-11.png",
+    seraCobalt: "Man Titties",
+    x2508Eth: "Justin Rogers",
+    className: "content-1-item-3",
+  }}
+  x015Props={{
+    placeholder:
+      "placeholder-12.png",
+    seraCobalt: "Gamblers Money",
+    x2508Eth: "Justin Rogers",
+    className: "content-1-item-4",
+  }}
+  x016Props={{
+    placeholder:
+      "placeholder-13.png",
+    seraCobalt: "Quagmire",
+    x2508Eth: "Justin Rogers",
+    className: "content-1-item",
+  }}
+  group2842Props={{
+    exploreMore: "Explore More",
+    line3:
+      "line-3-1.png",
+  }}
+  x014Props2={{
+    vector1:
+      "vector-20-1x-png.png",
+    vector2:
+      "vector-21-1x-png.png",
+    arrow:
+      "arrow-1.png",
+  }}
+  creator1Props={{
+    jimxvic: "Illadaproducer",
+    dot:
+      "layer-41-1.png",
+  }}
+  button21Props={{
+    children: "Place Bid",
+  }}
+  creator2Props={{
+    jimxvic: "illmind",
+    dot:
+      "layer-41-1.png",
+    className: "creator-2",
+  }}
+  button21Props2={{
+    children: "Place Bid",
+    className: "button-2",
+  }}
+  creator3Props={{
+    jimxvic: "Kanye West",
+    dot:
+      "layer-41-1.png",
+    className: "creator-3",
+  }}
+  button22Props={{
+    children: "Place Bid",
+    className: "button-2",
+  }}
+  creator4Props={{
+    jimxvic: "Dj Khaled",
+    dot:
+      "layer-41-1.png",
+    className: "creator",
+  }}
+  button23Props={{
+    children: "Place Bid",
+    className: "button-2",
+  }}
+  paginationProps={{
+    vector1:
+      "vector-20-1x-png.png",
+    vector2:
+      "vector-21-1x-png.png",
+    arrow:
+      "arrow-1.png",
+    className: "pagination-1",
+  }}
+  text1Props={{
+    setYourWallet: "Set your wallet",
+    decideWhichWallet:
+      "Decide which wallet you want to use as your transaction method",
+  }}
+  text2Props={{
+    setYourWallet: "Browse Music",
+    decideWhichWallet:
+      "Find your new favorite artist!",
+    className: "text-5",
+  }}
+  group2843Props={{
+    exploreMore: "Explore More",
+    line3:
+      "line-3-1.png",
+  }}
+  group2844Props={{
+    exploreMore: "Explore More",
+    line3:
+      "line-3-1.png",
+  }}
+  x012Props2={{
+    like:
+      "vector-10.png",
+    number: "150",
+  }}
+  x012Props3={{
+    like:
+      "vector-10.png",
+    number: "150",
+  }}
+  x012Props4={{
+    like:
+      "vector-10.png",
+    number: "150",
+  }}
+  list1Props={{
+    x1HighQualityArtworks:
+      "1. Support Your Favorite Artist!",
+    loremIpsumDolorSi:
+      "The current streaming service revenue model only benefits one person... THE STREAMING SERVICE. Fans pay too much, artists get ripped off. On TuneGenius fans pay artists directly.",
+  }}
+  list2Props={{
+    x1HighQualityArtworks:
+      "2. Invest in a lifelong asset",
+    loremIpsumDolorSi:
+      "In a digital age one investment vehicle that is new and can last forever is song royalties on the blockchain. In 10,000 years they will still be listening to these songs and this asset class will prove to be one of the best.",
+    className: "list-3",
+  }}
+  list3Props={{
+    x1HighQualityArtworks:
+      "3. Artists & Fan Relationship",
+    loremIpsumDolorSi:
+      "In the traditional music scene fans and artists don't communicate, but with TuneGenius artists can see their top supporters, give special perks, and build a relationship beneficial to both parties!",
+    className: "list-4",
+  }}
+  chevronDownProps={{
+    src:
+      "vector-5.png",
+  }}
+  iconProps={{
+    chevronDownProps: {
+      src:
+        "vector-6.png",
+      className: "chevron-down-1-1",
+    },
+  }}
+  x031Props={{
+    howToJoinTheAuction:
+      "How to join the auction?",
+    iconProps: {
+      className: "icon-2",
+      chevronDownProps: {
+        src:
+          "vector-6.png",
+        className: "chevron-down-1-2",
+      },
+    },
+  }}
+  x032Props={{
+    howToJoinTheAuction:
+      "How to withdraw the coin?",
+    className: "x04",
+    iconProps: {
+      className: "icon-2",
+      chevronDownProps: {
+        src:
+          "vector-6.png",
+        className: "chevron-down-1-3",
+      },
+    },
+  }}
+  x033Props={{
+    howToJoinTheAuction:
+      "Does the transaction worth it?",
+    className: "faqs-1-item",
+    iconProps: {
+      className: "icon-2",
+      chevronDownProps: {
+        src:
+          "vector-6.png",
+        className: "chevron-down-1",
+      },
+    },
+  }}
+  links1Props={{
+    blog: "Blog",
+    helpCenter: "Help Center",
+  }}
+  links2Props={{
+    blog: "Discord",
+    helpCenter: "Community",
+    className: "links-3",
+  }}
+/>;
+HTML Tag
